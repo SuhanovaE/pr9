@@ -1,0 +1,21 @@
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\bin\Debug\ПР9 Суханова.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\bin\Debug\ПР9 Суханова.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\bin\Debug\ПР9 Суханова.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\MainWindow.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\Pages\PageDoWhile.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\Pages\PageFor.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\Pages\PageWhile.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\App.g.cs
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова_MarkupCompile.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова_MarkupCompile.lref
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\MainWindow.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\Pages\PageDoWhile.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\Pages\PageFor.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\Pages\PageWhile.baml
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова.g.resources
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9_Суханова.Properties.Resources.resources
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова.csproj.GenerateResource.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ПР9 Суханова\ПР9 Суханова\obj\Debug\ПР9 Суханова.pdb
